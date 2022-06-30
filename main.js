@@ -6,7 +6,7 @@ const app = Vue.createApp({
             info: 'test',
             image: './assets/images/socks_green.jpg',
             web: 'https://www.camt.cmu.ac.th/index.php/th/',
-            inStock: true
+            inStock: false
         }
     }
 })
