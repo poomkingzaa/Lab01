@@ -8,7 +8,8 @@ const app = Vue.createApp({
             web: 'https://www.camt.cmu.ac.th/index.php/th/',
             inStock: true,
             onSale: true,
-            inventory: 100
+            inventory: 100,
+            details: ['50% cotton', '30% wool', '20% polyester']
         }
     }
 })
