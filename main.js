@@ -4,7 +4,8 @@ const app = Vue.createApp({
         return {
             product: 'Boots',
             info: 'test',
-            image: './assets/images/socks_green.jpg'
+            image: './assets/images/socks_green.jpg',
+            web: 'https://www.camt.cmu.ac.th/index.php/th/'
         }
     }
 })
